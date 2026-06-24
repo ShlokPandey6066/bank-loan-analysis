@@ -1,0 +1,35 @@
+Count of Employment_Status,Column Labels,,,,,,,,,
+Row Labels,Employed,Self-Employed,Unemployed,Grand Total,,,,,,
+Near Prime,126,34,30,190,,,,,,
+Prime,81,35,41,157,,,,,,
+Prime Plus,41,17,14,72,,,,,,
+Subprime,880,238,252,1370,,,,,,
+Super Prime,132,41,38,211,,,,,,
+Grand Total,1260,365,375,2000,,,,,,
+,,,,,,,,,,
+Approved list,,,,,,,,,,
+Row Labels,Employed,Self-Employed,Unemployed,Grand Total,,Employed,Self-Employed,Unemployed,Grand Total,
+Subprime,36,7,16,59,,11%,2%,5%,17%,<680
+Near Prime,55,14,12,81,,16%,4%,4%,24%,<730
+Prime,38,13,15,66,,11%,4%,4%,19%,<770
+Prime Plus,18,9,5,32,,5%,3%,1%,9%,<790
+Super Prime,64,18,22,104,,19%,5%,6%,30%,>790
+Grand Total,211,61,70,342,,62%,18%,20%,100%,
+,,,,,,,,,,
+Total List,,,,,,,,,,
+Row Labels,Employed,Self-Employed,Unemployed,Grand Total,,Employed,Self-Employed,Unemployed,Grand Total,
+Subprime,880,238,252,1370,,44%,12%,13%,69%,
+Near Prime,126,34,30,190,,6%,2%,2%,10%,<730
+Prime,81,35,41,157,,4%,2%,2%,8%,<770
+Prime Plus,41,17,14,72,,2%,1%,1%,4%,<790
+Super Prime,132,41,38,211,,7%,2%,2%,11%,>790
+Grand Total,1260,365,375,2000,,63%,18%,19%,100%,
+,,,,,,,,,,
+Penetration,,,,,,,,,,
+Row Labels,Employed,Self-Employed,Unemployed,Grand Total,,,,,,
+Subprime,4%,3%,6%,4%,,,,,,
+Near Prime,44%,41%,40%,43%,,,,,,
+Prime,47%,37%,37%,42%,,,,,,
+Prime Plus,44%,53%,36%,44%,,,,,,
+Super Prime,48%,44%,58%,49%,,,,,,
+Grand Total,17%,17%,19%,17%,,,,,,
